@@ -1,2 +1,2 @@
-http error
-loadash can't be found
+Problems:
+Had problems using git from my laptop and went through another course to get a better understanding of how to use Git and Github
